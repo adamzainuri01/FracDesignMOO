@@ -1,0 +1,11 @@
+sklearn
+pandas
+numpy
+matplotlib
+scikit-learn
+scikit-learn-intelex
+optuna
+pymoo
+xgboost
+lightgbm
+catboost
